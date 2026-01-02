@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scripter-kartik
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning WEB3
 - 💞️ ready to learn new things
 
 <!---
