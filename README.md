@@ -3,7 +3,11 @@
 # Hi, I'm Kartik 👋
 ### Full-Stack Developer | Web3 Explorer | Building Cool Stuff
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Currently Learning Web3;Smart+Contract+Developer;Always+Learning" alt="Typing SVG" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Currently+Learning+Web3;Smart+Contract+Developer;Always+Building"
+  alt="Typing SVG"
+/>
+
 
 </div>
 
