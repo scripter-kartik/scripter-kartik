@@ -1,76 +1,53 @@
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██╗  ██╗ █████╗ ██████╗ ████████╗██╗██╗  ██╗              ║
-║   ██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝              ║
-║   █████╔╝ ███████║██████╔╝   ██║   ██║█████╔╝               ║
-║   ██╔═██╗ ██╔══██║██╔══██╗   ██║   ██║██╔═██╗               ║
-║   ██║  ██╗██║  ██║██║  ██║   ██║   ██║██║  ██╗              ║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝              ║
-║                                                               ║
-║              learning web3 • building stuff • shipping fast   ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+# kartik
 
-hey 👋
-
-i'm kartik. i write code, mostly smart contracts and web stuff. currently obsessed with web3 and trying to figure out how blockchains actually work by building things.
-
-## what i'm doing rn
-
-```javascript
-const currentStatus = {
-  learning: "solidity & smart contract security",
-  building: "some web3 projects (check pinned repos)",
-  reading: "mastering ethereum",
-  vibes: "shipping > perfection"
-}
-```
-
-## stuff i mess with
-
-**web3**  
-`solidity` `ethers.js` `hardhat` `foundry` `web3.js`
-
-**backend/scripting**  
-`javascript` `node.js` `typescript` `python`
-
-**other tools**  
-`git` `linux` `vim` `vscode`
+building web3 stuff. learning in public.
 
 ---
 
-### recent projects
+## currently
 
-→ **[project-name-1](link)** - quick description of what it does  
-→ **[project-name-2](link)** - another project one-liner  
-→ **[project-name-3](link)** - third project summary
+- learning solidity & smart contract patterns
+- building a few web3 projects (check repos below)
+- trying to understand how gas optimization actually works
+- shipping code daily
 
----
+## tech
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+```
+blockchain:  solidity, hardhat, ethers.js, foundry
+backend:     javascript, node.js, typescript  
+tools:       git, linux, vscode
+```
 
-contract Life {
-    string public currentFocus = "Building cool shit";
-    
-    function whatImDoing() public pure returns (string memory) {
-        return "Learning in public, one commit at a time";
-    }
+## projects worth checking
+
+**defi-tracker** — portfolio tracker for ethereum wallets  
+**nft-mint-template** — gas-optimized erc721 contract  
+**web3-auth-kit** — wallet authentication for web apps
+
+## stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=scripter-kartik&show_icons=true&theme=radical&hide_border=true)
+![streak](https://github-readme-streak-stats.herokuapp.com?user=scripter-kartik&theme=radical&hide_border=true)
+
+## philosophy
+
+```js
+function approach() {
+  return {
+    mindset: "ship first, optimize later",
+    learning: "build in public, share progress",
+    goal: "make web3 less intimidating"
+  }
 }
 ```
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=scripter-kartik&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+**reach me:** [@your_twitter](https://x.com/your_username) • your@email.com
 
-![](https://github-readme-streak-stats.herokuapp.com?user=scripter-kartik&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
----
-
-**find me:** [twitter/x](https://x.com/YOUR_USERNAME) • [email](mailto:your@email.com)
+> "the best way to learn is to build things people might actually use"
 
 ---
 
-<sub>built with ☕ and late nights • learning web3 one transaction at a time</sub>
+![visitors](https://komarev.com/ghpvc/?username=scripter-kartik&color=blueviolet&style=flat-square)
