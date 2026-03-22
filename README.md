@@ -18,7 +18,6 @@
 ###  About Me
 
 - Currently building **full-stack web applications**
-- Learning **Solidity & Smart Contracts**
 - Exploring **Web3, DeFi, and Blockchain**
 - Love turning ideas into reality
 - Reach me: **agarwalkartik704@gmail.com**
